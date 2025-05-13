@@ -1,9 +1,12 @@
 ## Olá eu sou Pedro um estudante apaixonado por programação e tecnologia!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carvalho-Alves&show_icons=true&count_private=true&theme=dark" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho-Alves&layout=compact&theme=dark" width="320" />
+  <h3>📊 Minhas Estatísticas no GitHub</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Carvalho-Alves&show_icons=true&count_private=true&theme=dark&hide_title=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho-Alves&layout=compact&theme=dark&hide_title=true" width="320" />
+  <p>🔤 Linguagens mais utilizadas</p>
 </div>
+
 
 
 
