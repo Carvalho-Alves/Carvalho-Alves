@@ -1,8 +1,8 @@
 ## Olá eu sou Pedro um estudante apaixonado por programação e tecnologia!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalho-Alves&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho-Alves&layout=compact)
 
 
 <div style="display: inline_block"><br>
